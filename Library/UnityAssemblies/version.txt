@@ -1,5 +1,5 @@
 2017.3.0b9:3.1.0.0
-StandaloneWindows
+StandaloneWindows64
 C:/Program Files/Unity 2017.3.0b9/Editor/Data/Managed/UnityEditor.dll
 C:/Program Files/Unity 2017.3.0b9/Editor/Data/Managed/UnityEngine/UnityEngine.dll
 C:/Program Files/Unity 2017.3.0b9/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll
